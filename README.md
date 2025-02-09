@@ -1,72 +1,39 @@
-# Getting Started with Create React App
+# 🎮 Pokémon Go Card Game - React Project 💥
+#  🚀 Proje Hakkında
+Bu projede React ve CSS kullanarak, eğlenceli bir Pokémon Go Kart Oyunu oluşturmayı hedefledim. 
+Her bir Pokémon kartı, kullanıcıya deneyim puanları toplama fırsatı sunuyor! 
+🐱‍🏍⚡ Proje, CSS Gradients, Google Fonts ve React'in gücüyle, dinamik ve renkli bir görsellik elde etti. 🌟
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#  🛠️ Kullanılan Teknolojiler
+Bu projede aşağıdaki teknolojileri kullandım:
 
-## Available Scripts
+..ReactJS - Dinamik arayüz ve state yönetimi için.
+..CSS - Şık ve modern stil tasarımları oluşturmak için.
+..Google Fonts - Yazı tiplerini özelleştirmek için.
+..CSS Gradients - Renk geçişleriyle görsel zenginlik yaratmak için.
+..PokéAPI - Pokémon verilerini çekmek için.
 
-In the project directory, you can run:
+#  ✨ Projenin Özellikleri
+Pokémon Kartları: Her Pokémon'un adı, türü ve deneyim puanı gösteriliyor. 🃏
+Kazanan ve Kaybeden Gösterimi: İki oyuncunun toplam deneyim puanlarına göre, kazanan ve kaybeden belirtiliyor! 🏆🎯
+Hover Efekti: Kartlar üzerine gelindiğinde şık bir büyütme ve parlama efekti! ✨
 
-### `npm start`
+#  🎨 Projede Kullanılan CSS Özellikleri
+..Box Shadows: Kartların etrafına derinlik ekleyerek, onlara havada süzülüyormuş hissi verdim. 🌚
+..Gradient Backgrounds: Pokémon kartlarına canlı renkler eklemek için CSS gradient'leri kullandım. 🌈
+..Hover Animations: Kartlar üzerine gelindiğinde büyüme ve renk değişim animasyonları ekledim! 🖱️✨
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#  📝 Notlar
+Projeyi geliştirirken React, JSX, ve props kullanarak komponentler arası veri geçişi sağladım.
+Her Pokémon'un kartını oluştururken PokéAPI'den JSON verilerini çekerek dinamik bir yapı kurdum.
+Google Fonts ile özel yazı tipleri kullandım ve CSS Gradients ile renk geçişleri yaptım.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# 💬 İletişim:
+Proje hakkında sorularınız varsa, lütfen benimle iletişime geçin:
+E-posta: akgundogduesr@gmail.com
 
-### `npm test`
+#  Ekran Görüntüsü:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+https://github.com/user-attachments/assets/62f5b02c-faea-4fac-aae4-c3a260298c90
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Pokemon-Go-Card-Game-React-Project
-# Pokemon-Go-Card-Game-React-Project
